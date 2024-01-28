@@ -16,7 +16,7 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants sur v
 1. Clonez le projet depuis le gestionnaire de versions (Git) :
 
     ```bash
-    git clone [<URL_du_projet.git>](https://github.com/ahmed00078/manageschool.git)
+    git clone https://github.com/ahmed00078/manageschool.git
     ```
 
 2. Accédez au répertoire du projet :
