@@ -16,13 +16,13 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants sur v
 1. Clonez le projet depuis le gestionnaire de versions (Git) :
 
     ```bash
-    git clone <URL_du_projet.git>
+    git clone [<URL_du_projet.git>](https://github.com/ahmed00078/manageschool.git)
     ```
 
 2. Accédez au répertoire du projet :
 
     ```bash
-    cd nom_du_projet
+    cd manageschool
     ```
 
 3. Installez les dépendances PHP avec Composer :
@@ -87,7 +87,7 @@ Si vous souhaitez contribuer à ce projet, veuillez suivre ces étapes :
 
 ## Auteurs
 
-- [Votre Nom]
+- Ahmed Sidi Mohamed
 
 ## Licence
 
