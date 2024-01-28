@@ -92,7 +92,3 @@ Si vous souhaitez contribuer à ce projet, veuillez suivre ces étapes :
 ## Licence
 
 Ce projet est sous licence [MIT](LICENSE).
-
----
-
-Adaptez ce README en fonction des détails spécifiques de votre projet. Ajoutez des sections supplémentaires ou modifiez celles existantes selon les besoins de votre application.
